@@ -2,5 +2,5 @@
 int main(){
   int key;
   cin >> key;
-  cour << "you typed" << key;
+  cout << "you typed" << key;
 }
